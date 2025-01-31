@@ -1,0 +1,5 @@
+Free State 40 30
+Western Cape 10 20
+Eastern Cape 40 30
+North West 87 36
+Limpopo 10 35

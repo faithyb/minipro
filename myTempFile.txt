@@ -1,0 +1,5 @@
+Limpopo 30
+Mpumlanga 600
+Gauteng 350
+Northern Cape 500
+Free State 51
